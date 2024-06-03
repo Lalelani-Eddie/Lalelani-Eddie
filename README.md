@@ -32,8 +32,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lalelani_eddie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalelani_eddie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lalelani nene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalelani-nene-8563291a3" height="30" width="40" /></a>
-<a href="https://fb.com/lalelani eddie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lalelani eddie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lalelani nene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lalelani-nene-8563291a3/" height="30" width="40" /></a>
+<a href="https://fb.com/lalelani eddie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011588684755" height="30" width="40" /></a>
 <a href="https://instagram.com/lalelani_eddie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lalelani_eddie" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Lalelani_Eddie_Nene/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lalelani eddie nene" height="30" width="40" /></a>
 </p>
