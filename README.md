@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18Kj4i4mDKigBF9cZ-MNSiVvfwkYWg0Wi/view](https://drive.google.com/file/d/18Kj4i4mDKigBF9cZ-MNSiVvfwkYWg0Wi/view)
 
-- ⚡ Fun fact **Full of surprises**
+- ⚡ Fun fact **Adicted to Coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
