@@ -1,18 +1,19 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/Marvel-Cinematic-Universe-best-data-visualizations.gif)]
 <h1 align="center">Hi 👋, I'm Lalelani Eddie Nene</h1>
-<h3 align="center">A passionate with software development, data science, data analytics, web development, it's a lot!!</h3>
-<img align="right" alt="Coding" width="550" height="400" src="https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=E7bkbArtUYog3r8P1SILuVpj4P2mpFvEoj2RWBMiaKU">
-<img align="center" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
-
+<h3 align="center">I am passionate with software development, data science, data analytics, web development, it's a lot!!</h3>
+<div style="display: flex; align-items: center;">
+  <img alt="Coding" width="550" height="400" src="https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=E7bkbArtUYog3r8P1SILuVpj4P2mpFvEoj2RWBMiaKU">
+  <img alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalelani-eddie&label=Profile%20views&color=0e75b6&style=flat" alt="lalelani-eddie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalelani-eddie" alt="lalelani-eddie" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lalelani_eddie" target="blank"><img src="https://img.shields.io/twitter/follow/lalelani_eddie?logo=twitter&style=for-the-badge" alt="lalelani_eddie" /></a> </p>
 
-- 🔭 I’m currently working on **Recommendations Systems**
+- 🔭 I’m currently working on ** Automations and Recommendations Systems**
 
-- 🌱 I’m currently learning **Computer clouding, Computer Science, Machine Learning**
+- 🌱 I’m currently learning **Computer clouding and Machine Learning**
 
 - 👯 I’m looking to collaborate on **AI projects**
 
