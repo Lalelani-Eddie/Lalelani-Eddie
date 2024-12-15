@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lalelani Eddie Nene</h1>
 <h3 align="center">I am passionate with software development, data science, data analytics, web development, it's a lot!!</h3>
 <div style="display: flex; align-items: center;">
-  <img alt="Coding" width="550" height="400" src="https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=E7bkbArtUYog3r8P1SILuVpj4P2mpFvEoj2RWBMiaKU">
+  <img alt="Coding" width="400" height="400" src="https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=E7bkbArtUYog3r8P1SILuVpj4P2mpFvEoj2RWBMiaKU">
   <img alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalelani-eddie&label=Profile%20views&color=0e75b6&style=flat" alt="lalelani-eddie" /> </p>
