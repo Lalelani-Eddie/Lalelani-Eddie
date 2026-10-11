@@ -1,76 +1,73 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/Marvel-Cinematic-Universe-best-data-visualizations.gif)](https://github.com/Lalelani-Eddie)
+<a href="https://github.com/Lalelani-Eddie">
+  <img src="./assets/banner.svg" alt="Lalelani Eddie Nene — AI, data engineering and full-stack developer" width="100%" />
+</a>
 
-<h1 align="center">Hi 👋, I'm Lalelani Eddie Nene</h1>
-<h3 align="center">Passionate about Software Development, Data Science, Analytics, and Web Development</h3>
+<br />
 
-<div align="center">
-  <img alt="Coding" width="250" height="250" src="https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=E7bkbArtUYog3r8P1SILuVpj4P2mpFvEoj2RWBMiaKU">
-  <img alt="Data Visualizations" width="250" height="250" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
-</div>
+Computer science student and full-stack developer working where **AI, data engineering and blockchain** meet. I like systems that do real work: pipelines that clean data at scale, agents that reason over messy records, and AI that hands the final call to a human.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lalelani-eddie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<a href="https://drive.google.com/file/d/18Kj4i4mDKigBF9cZ-MNSiVvfwkYWg0Wi/view">
+  <img src="./assets/btn-resume.svg" alt="View resume" height="46" />
+</a>
+
+<br /><br /><br />
+
+<img src="./assets/h-now.svg" alt="What I'm building" width="560" />
+
+- **AI-powered pipelines** — LLM agents wired into real databases, with confidence scores and audit trails
+- **Multimodal AI** — combining specialised vision models with general-purpose LLMs for structured output
+- **Learning** — cloud architecture and advanced machine learning
+- **Open to** collaborating on AI-driven and data-heavy projects
+
+<br /><br />
+
+<img src="./assets/h-work.svg" alt="Selected work" width="560" />
+
+**Name-fixer agent**
+An AI agent that finds and corrects misspelled name fields in SQL / PostgreSQL databases. Fuzzy matching (`rapidfuzz`) pre-filters candidates, Gemini proposes corrections as structured JSON with confidence scores, and a two-tier gate auto-applies only high-confidence fixes — everything else goes to a human-review CLI. Every change is logged.
+`Python` · `SQLAlchemy` · `Gemini` · `PostgreSQL`
+
+**Clinical decision support (design)**
+A triangular system — patient intake, an AI triage layer, and a doctor review interface — covering skin, dental and chest X-ray images plus blood data. The AI surfaces candidate conditions with urgency flags; doctors keep final authority, and their decisions become ground truth for measuring the model.
+`Multimodal LLMs` · `Computer vision` · `Human-in-the-loop`
+
+<br /><br />
+
+<img src="./assets/h-stack.svg" alt="Stack" width="560" />
+
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=8052ff" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ffb829" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=8052ff" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=15846e" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=8052ff" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=8052ff" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=ffb829" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=sqlalchemy&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=8052ff" />
+  <img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=ffb829" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=15846e" />
 </p>
 
----
+<br /><br />
 
-### 🔭 Current Projects
-- **Automation and Recommendation Systems**
-- **AI and Machine Learning Solutions**
+<img src="./assets/h-stats.svg" alt="On GitHub" width="560" />
 
-### 🌱 Currently Learning
-- **Cloud Computing**
-- **Advanced Machine Learning**
-
-### 👯 Collaboration Goals
-- Open to collaborating on **AI-driven projects** and **Innovative Technology Solutions**.
-
-### 💬 Ask Me About
-- Data Science, Analytics, and Emerging Technologies.
-
-### 📫 Contact Me
-- **Email**: lalelaninene@gmail.com
-- **GitHub**: [Lalelani-Eddie](https://github.com/Lalelani-Eddie)
-- **LinkedIn**: [Lalelani Eddie Nene](https://www.linkedin.com/in/lalelani-nene-8563291a3/)
-
----
-
-### 📄 My Experiences
-- Explore my journey and accomplishments: [View Resume](https://drive.google.com/file/d/18Kj4i4mDKigBF9cZ-MNSiVvfwkYWg0Wi/view)
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <!-- Add or remove tools as needed -->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lalelani-Eddie&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bdbdbd&icon_color=8052ff&ring_color=8052ff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalelani-Eddie&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bdbdbd" />
 </p>
 
----
+<br /><br />
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/lalelani_eddie" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/lalelani-nene-8563291a3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@Lalelani_Eddie_Nene/videos" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-</p>
+<img src="./assets/h-contact.svg" alt="Contact" width="560" />
+
+Ask me about data science, AI agents, analytics or emerging tech.
+
+[Email](mailto:lalelaninene@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/lalelani-nene-8563291a3/) &nbsp;·&nbsp; [X / Twitter](https://twitter.com/lalelani_eddie) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@Lalelani_Eddie_Nene/videos)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=lalelani-eddie&label=PROFILE%20VIEWS&color=8052ff&style=flat-square" alt="Profile views" />
